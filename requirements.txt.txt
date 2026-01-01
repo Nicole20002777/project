@@ -1,0 +1,7 @@
+line-bot-sdk
+flask
+gunicorn
+python-dotenv
+lxml
+requests
+pandas
